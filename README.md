@@ -6,6 +6,8 @@ Author’s Kaustubh R research: https://github.com/kulkarnik/cannabis-classifier
 
 HCP dataset: https://www.humanconnectome.org/study/hcp-young-adult/data-releases
 
+# Framework
+
 <p align="center">
     <img src="imgs/Framework.png" width="100%"\>
 </p>
